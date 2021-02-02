@@ -1,0 +1,44 @@
+body{
+    width: 100px;
+}
+/* table {
+    border: 2px solid #ccc;  */
+/* table {
+    border: 1px solid #ccc;
+    border-spacing: 3px;
+    table-layout: fixed;
+    width:350px; 
+}
+td, th{
+    border: solid 1px #ccc;
+    vertical-align: bottom;
+    height: 30px;
+} */
+/* tr {
+    border: 1px solid #ccc; 
+}
+td, th {
+    border: 1px solid #ccc;  
+} */
+
+
+
+
+
+
+table {
+    width: 100px;
+    border-spacing: 0 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    }
+    th {
+    padding:0px;
+    background: #56433D;
+    color: #F9C941;
+    border-right: 2px solid; 
+    font-size: 0.9em;
+    } 
+
+
